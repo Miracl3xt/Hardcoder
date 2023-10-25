@@ -11,7 +11,7 @@ This tool is designed to find hardcoded secrets in Source code, Logs, or local f
 
 
 ```CMD:
-python3 Securefind.py --json Rules.json --directory sendy/
+python3 Securefind.py --json Rules.json --directory PATH/
 
 --json : Include Youre rules.json file here
 --Directory: PATH to your local Source code directory.
