@@ -1,11 +1,12 @@
 # Hardcoder
 This tool is designed to find hardcoded secrets in Source code, Logs, or local files. Lightweight, Multithreaded tool to find Secrets, sensitive data in your day to day life
+![Alt text]([image link](https://github.com/Miracl3xt/Hardcoder/blob/main/k.png))
 
 
 
 ## Uses:
 * Regex Based Search engine
-* Searching for logs for Sensitive data made Easy
+* Searching for logs or Code for Sensitive data made Easy
 * Direct Local file scanner
 * Find Hardcoded credentials in your SAST, Source code, and LOGS.
 
